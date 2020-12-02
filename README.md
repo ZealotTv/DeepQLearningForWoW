@@ -1,5 +1,6 @@
 # DeepQLearningForWoW
 (This is my first project on neural networks of this scale.)
+
 Teaching model: Deep Q Learning
 Attention! AI is not completed to the end, as you need access to the game API to get data into the Q table.
                                                              Principle of operation.
